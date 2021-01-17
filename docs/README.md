@@ -29,7 +29,7 @@
     <tr>
 	      <td><a href='https://github.com/jenkins-x/jx-pipelines-visualizer' title='Web UI for Jenkins X, with a clear goal - visualize the pipelines - and their logs.'> <img src='' width='24px' height='24px'> jx-pipelines-visualizer </a></td>
 	      <td>0.0.77</td>
-	      <td></td>
+	      <td><a href='http://dashboard-jx.192.168.39.217.nip.io'>view</a></td>
 	      <td><a href='https://github.com/jenkins-x/jx-pipelines-visualizer'>source</a></td>
 	    </tr>
     <tr>
@@ -40,11 +40,10 @@
 	      <td><a href='https://github.com/jenkins-x/jx-preview'>source</a></td>
 	    </tr>
     <tr>
-	      <td><a href='https://github.com/jenkins-x/lighthouse' title='This chart bootstraps installation of [Lighthouse](https://github.com/jenkins-x/lighthouse).
-'> <img src='https://raw.githubusercontent.com/jenkins-x/jenkins-x-website/master/images/logo/jenkinsx-icon-color.svg' width='24px' height='24px'> lighthouse </a></td>
+	      <td><a href='' title=''> <img src='' width='24px' height='24px'> lighthouse </a></td>
 	      <td>0.0.907</td>
 	      <td></td>
-	      <td><a href='https://github.com/jenkins-x/lighthouse'>source</a></td>
+	      <td></td>
 	    </tr>
     <tr>
 	      <td><a href='' title='A Helm chart for bucketrepo service'> <img src='https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png' width='24px' height='24px'> bucketrepo </a></td>
@@ -55,7 +54,7 @@
     <tr>
 	      <td><a href='https://hub.docker.com/_/registry/' title='DEPRECATED A Helm chart for Docker Registry'> <img src='https://hub.docker.com/public/images/logos/mini-logo.svg' width='24px' height='24px'> docker-registry </a></td>
 	      <td></td>
-	      <td></td>
+	      <td><a href='http://docker-registry-jx.192.168.39.217.nip.io/'>view</a></td>
 	      <td><a href='https://hub.docker.com/_/registry/'>source</a></td>
 	    </tr>
     <tr>
